@@ -129,15 +129,6 @@ Développement d'un assistant intelligent reposant sur une architecture Retrieva
 - Développement d'une API REST avec Flask.
 - Exploitation de documents juridiques marocains.
 
-### 🌐 Application de Réservation — Microservices
-
-**Java | Spring Boot | API Gateway | Eureka**
-
-- Architecture microservices pour la gestion des utilisateurs et des réservations.
-- Routage des requêtes avec API Gateway.
-- Découverte dynamique des services avec Eureka.
-
----
 
 ## 📊 Statistiques GitHub
 
