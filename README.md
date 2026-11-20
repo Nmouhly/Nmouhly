@@ -164,9 +164,11 @@ Développement d'un assistant intelligent reposant sur une architecture Retrieva
 
 ## 📫 Me contacter
 
-💼 [LinkedIn](https://www.linkedin.com/in/nouhaila-mouhly-40a966284/)
-📧 [Email](mailto:nouhailamouhly03@gmail.com)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/nouhaila-mouhly-40a966284/)<br>
+📧 [Email](mailto:nouhailamouhly03@gmail.com)<br>
 💻 [GitHub](https://github.com/Nmouhly)
+
 
 ---
 
