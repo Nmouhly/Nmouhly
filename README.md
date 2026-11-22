@@ -130,6 +130,24 @@ Développement d'un assistant intelligent reposant sur une architecture Retrieva
 - Exploitation de documents juridiques marocains.
 
 
+### 🎟️ EventHub — Event Management Platform
+
+**React | Node.js | Express.js | PostgreSQL | Docker**
+
+[🔗 Voir le dépôt GitHub](https://github.com/Nmouhly/EventHub)
+
+Développement d'une application Full-Stack de gestion d'événements avec portail public et espace d'administration sécurisé.
+
+- Création, modification et publication d'événements.
+- Gestion des participants, inscriptions et capacités d'accueil.
+- Authentification JWT et contrôle d'accès par rôles (Admin/Staff).
+- Développement d'API REST avec Express.js et PostgreSQL.
+- Sécurisation des inscriptions avec transactions SQL et verrouillage concurrentiel.
+- Documentation des API avec Swagger/OpenAPI.
+- Conteneurisation de l'application avec Docker Compose.
+- Tests automatisés avec Jest, Supertest et Playwright.
+
+
 ## 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nmouhly&show_icons=true&theme=radical)
